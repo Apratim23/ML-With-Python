@@ -10,7 +10,7 @@
 
 <h2>Certificate</h2>
 <div align="center">
-  <img src="" alt="Certificate">
+  <img src="https://github.com/Apratim23/ML-With-Python/blob/main/Certificate.png" alt="Certificate">
 </div>
 <div align="center">
   <h3><a href="https://www.freecodecamp.org/certification/apratim/machine-learning-with-python-v7">Certificate Link</a></h3>
